@@ -3,6 +3,8 @@
 
 In this tutorial, we delve into a comprehensive process for new employee onboarding utilizing Microsoft Forms, Power Automate, and the integration with Microsoft Entra for creating user accounts. The tutorial focuses on crafting a user-friendly form for gathering essential information from new hires and employing Power Automate to automate the data integration into our systems. A critical part of this automation includes creating an Entra user for each new employee, specifically assigning them to the appropriate department—highlighted here with the creation of the Help Desk department.
 
+![Microsoft Forms Demonstration](https://github.com/KLavallais/KLavallais/blob/main/images/Microsoft%20Forms%20Demonstration.gif)
+
 ## Key Features of This Tutorial:
 - **Microsoft Forms Creation**: Discover how to construct an intuitive onboarding form that effectively collects new employee details.
 - **Power Automate Flow**: Step-by-step guidance on configuring an automated cloud flow that responds to form submissions. This ensures new employees are seamlessly added to the system with their details accurately placed.
@@ -10,7 +12,6 @@ In this tutorial, we delve into a comprehensive process for new employee onboard
 - **Dynamic Department Assignment**: Insights on dynamically creating departments based on form responses, ensuring accurate categorization of employees from the onset.
 - **Practical Demonstration**: Follow a practical example with an imaginary user, demonstrating the efficiency of the automated flow from form completion to system integration and Entra user creation.
 
-![Microsoft Forms Demonstration](https://github.com/KLavallais/KLavallais/blob/main/images/Microsoft%20Forms%20Demonstration.gif)
 
 [![Watch the video](http://img.youtube.com/vi/T4gSNeDf2aM/0.jpg)](http://www.youtube.com/watch?v=rJ65RJhq0jQ)
 
