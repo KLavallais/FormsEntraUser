@@ -13,7 +13,7 @@ In this tutorial, we delve into a comprehensive process for new employee onboard
 - **Practical Demonstration**: Follow a practical example with an imaginary user, demonstrating the efficiency of the automated flow from form completion to system integration and Entra user creation.
 
 
-[![Watch the video](http://img.youtube.com/vi/T4gSNeDf2aM/0.jpg)](http://www.youtube.com/watch?v=rJ65RJhq0jQ)
+[![Watch the video](https://github.com/KLavallais/KLavallais/blob/main/images/Automating%20Employee%20Onboarding.png)](https://youtu.be/4OCqiQdUeMQ)
 
 ## What You Will Learn:
 - How to build an efficient onboarding form using Microsoft Forms.
