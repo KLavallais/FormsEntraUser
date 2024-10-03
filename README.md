@@ -12,7 +12,7 @@ In this tutorial, we delve into a comprehensive process for new employee onboard
 - **Dynamic Department Assignment**: Insights on dynamically creating departments based on form responses, ensuring accurate categorization of employees from the onset.
 - **Practical Demonstration**: Follow a practical example with an imaginary user, demonstrating the efficiency of the automated flow from form completion to system integration and Entra user creation.
 
-
+## Video Demonstration
 [![Watch the video](https://github.com/KLavallais/KLavallais/blob/main/images/Permissions%20and%20Security%20Groups%20Azure%20Thumbnail.jpg)](https://youtu.be/4OCqiQdUeMQ)
 
 ## What You Will Learn:
